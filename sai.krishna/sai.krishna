@@ -1,0 +1,18 @@
+git clone https://github.com/krishna463/repo.git
+cd repo
+ls
+git status
+git commit -m "krishna"
+git status
+ git push 
+git clone https://github.com/krishna463/repo.git
+cd
+ls
+git status
+cd repo
+ls
+notepad++ repo
+notepad++ repo/
+git add 987.py
+git add .
+git status
